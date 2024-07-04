@@ -1,2 +1,3 @@
-# This is the backend of the website
-# It is a fashion store Mern-project Zyan fashion
+# This is the backend of the react website
+# It is a fashion store called Zyan fashion
+## It's running on netlify
